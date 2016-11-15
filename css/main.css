@@ -39,7 +39,9 @@ body {
 }
 
 .section-colored {
-    background-color: #e1e1e1;
+    /*background-color: #e1e1e1;*/
+
+    background-color: #ffe6b3;
     /* change this to change the background color of a colored section */
 }
 
@@ -50,7 +52,8 @@ body {
 .sidebar ul {
     border-radius: 5px;
     padding: 5px;
-    border: 1px solid #cccccc;
+ /*   border: 1px solid #cccccc; */
+    border: 1px solid #6696ff;
 }
 
 /* Half Page Height Carousel Customization */
